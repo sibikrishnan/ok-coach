@@ -1,0 +1,23 @@
+# Sports Video Analyzer - Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Anthropic SDK for Advanced Tool Use
+anthropic>=0.39.0
+
+# YouTube video downloading
+yt-dlp>=2024.0.0
+
+# Video processing and frame extraction
+opencv-python>=4.8.0
+opencv-python-headless>=4.8.0  # Alternative for headless environments
+
+# Image processing
+Pillow>=10.0.0
+
+# Optional: ffmpeg-python as alternative to opencv
+# ffmpeg-python>=0.2.0
+
+# Development dependencies (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# mypy>=1.5.0
